@@ -386,6 +386,14 @@ button.signUp {
 @media (min-width: 468px) {
 }
 @media (min-width: 768px) {
+  .footer .copyright {
+    flex-direction: row;
+  }
+
+  .copyright img {
+    width: 30%;
+    margin-bottom: 1rem;
+  }
   .headerContent {
     margin-bottom: 0;
     /* border: 1px solid red; */
